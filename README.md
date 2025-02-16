@@ -50,9 +50,9 @@ The analysis examines cryptocurrency price changes across seven time periods:
 
 ## Visualizations
 
-![Elbow Curve Image](Images/Compare Elbow method.png)
+![Elbow Curve Image](Images/Compare_Elbow_method.png)
 *Figure 1: Elbow curve analysis for optimal cluster determination*
 
-![Cluster Analysis Image](Images/Compare Clusters.png)
+![Cluster Analysis Image](Images/Compare_Clusters.png)
 *Figure 2: Cryptocurrency clusters visualization*
 
