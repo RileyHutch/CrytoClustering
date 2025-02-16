@@ -56,3 +56,5 @@ The analysis examines cryptocurrency price changes across seven time periods:
 ![Cluster Analysis Image](Images/Compare_Clusters.png)
 *Figure 2: Cryptocurrency clusters visualization*
 
+For this challenge in class work was used from Module 19, as well as a language model to help with code errors and formatting the readme.
+
